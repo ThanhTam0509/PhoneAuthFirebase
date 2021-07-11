@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PhoneAuthFirebase</string>
+    <string name="didn_t_get_otp_resend">Didn\'t get OTP? <b>Resend</b></string>
+    <string name="please_enter_your_code_otp">Please enter your code OTP</string>
+    <string name="submit">Submit</string>
+    <string name="verification_code">Verification Code</string>
+    <string name="please_enter_your_phone_to_continue">Please enter your Phone to continue</string>
+    <string name="phone_number">Phone Number</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

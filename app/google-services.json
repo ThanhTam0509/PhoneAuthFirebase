@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "259582492938",
+    "project_id": "phone-auth-firebase-61bb5",
+    "storage_bucket": "phone-auth-firebase-61bb5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259582492938:android:7799774d2e69ecb31c7af3",
+        "android_client_info": {
+          "package_name": "com.thanhtam.phoneauthfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259582492938-srggbltd2ms8e5pv3sj0aoov9r5g8604.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKGq2pjoxrouhpqq2TUMmaDplMRGKFyRk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259582492938-srggbltd2ms8e5pv3sj0aoov9r5g8604.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
